@@ -39,6 +39,11 @@ h2{
 	color: #1E69E1;
 }
 
+.fs_38{
+	font-size: 38px;
+	font-weight: 700;
+}
+
 
 /*body, tags and custom classes code end*/
 
@@ -396,15 +401,6 @@ div#studentProjects div.student-projects > h2,
 section#prices h2,
 div.app-form-top h2{
 	font-size: 32px;
-}
-
-div#experts h2 span,
-div#alumni h2 span,
-div#studentProjects h2 span,
-section##prices h2 span,
-div.app-form-top h2 span{
-	font-size: 38px;
-	font-weight: 700;
 }
 
 div#experts div.single-expert{
@@ -1353,14 +1349,6 @@ div.footer-bottom p a{
 	section#prices h2 span,
 	div.app-form-bottom h2{
 		font-size: 28px;
-	}
-
-	div#projects h2 span,
-	div#experts h2 span,
-	div#alumni h2 span,
-	div#studentProjects div.student-projects > h2 span,
-	section#prices h2 span{
-		font-weight: 700;
 	}
 
 	div#alumni div.alumni-cards{
