@@ -1,21 +1,24 @@
-# Data Analytics - Landing Page
+# Data Analytics Academy Landing Page
 
-<h2>About</h2>
-
-
-
-<h2>Technologies Used</h2>
-As part of my learning process, I utilized the following technologies:
+<h2>About The Project</h2>
+This landing page represents my dedicated effort to create a visually appealing gateway to the Data Analytics Academy. As an aspiring front-end developer, it holds a special place in my journey, providing hands-on experience in translating design concepts into a user-friendly webpage using HTML, CSS, and Bootstrap. Through innovative design and curated content, the goal is to capture the essence of the academy's offerings and inspire potential learners to explore the world of data analytics.
 <br/><br/>
+This project, developed as part of the Front-End Academy's curriculum, was assigned after completing the first module, representing my initial solo project.
+<br/>
+
+
+<h2>Languages and Utilities Used:</h2>
 <ul>
-  <li><b>HTML:</b> Structured to meet project requirements.</li>
-  <li><b>CSS:</b> Styled to enhance the user interface.</li>
-  <li><b>Bootstrap:</b> Implemented for responsive design.</li>
-  <li><b>Figma:</b> Explored for collaborative design and prototyping.</li>
+  <li><b>HTML</b></li>
+  <li><b>CSS</b></li>
+  <li><b>Bootstrap</b></li>
+  <li><b>Figma</b></li>
 </ul>
 
-<h2>Walk Through the Web Page</h2>
+<h2>Webpage Overview</h2>
+This section provides a comprehensive visual overview of the Data Analytics Academy landing page. Explore the entire webpage through screenshot to get a glimpse of its design, layout, and user interface.
+<br/><br/><br/>
+<a href="#"><img src="https://github.com/trifunovskak/Data-Analytics-Landing-Page/assets/144165040/34c49ee5-78bb-429e-bfc3-f75a83adc1f3"/></a>
 
-![screencapture-file-C-Users-Com-Downloads-Data-Analytics-Landing-Page-main-index-html-2023-11-19-23_50_51](https://github.com/trifunovskak/Data-Analytics-Landing-Page/assets/144165040/3a57a3b6-da95-4b68-9c6e-401c0af777ff)
 
 
