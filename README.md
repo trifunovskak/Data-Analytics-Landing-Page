@@ -1,5 +1,7 @@
 # Data Analytics Academy Landing Page
 
+Click <a href="https://trifunovskak.github.io/Data-Analytics-Landing-Page/">here</a> to access the project.
+
 <h2>About The Project</h2>
 This landing page represents my dedicated effort to create a visually appealing gateway to the Data Analytics Academy. As an aspiring front-end developer, it holds a special place in my journey, providing hands-on experience in translating design concepts into a user-friendly webpage using HTML, CSS, and Bootstrap. Through innovative design and curated content, the goal is to capture the essence of the academy's offerings and inspire potential learners to explore the world of data analytics.
 <br/><br/>
